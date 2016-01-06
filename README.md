@@ -1,7 +1,9 @@
 Sharespot
 =========
 
-**ShareSpot** is a standalone android application that iediately after each paragraph in which they’re used, but if you want, you can put them all at the end of your document, sort of like footnotes.ntegrates different media sharing sites onto a single application for the smart phones. It enables the end-user to browse through the local file system and select media files to upload. The files can be uploaded to the supported web sites using a single user-friendly interface without the need for separate logins to each website and then selecting and uploading media files.
+**ShareSpot** an  android application where a user can upload, download and browse his photos or videos at different media sites like Picasa, Flickr and YouTube  via single application.
+
+It enables the end-user to browse through the local file system and select media files to upload. The files can be uploaded to the supported web sites using a single user-friendly interface without the need for separate logins to each website and then selecting and uploading media files.
 
 
 ###Features
